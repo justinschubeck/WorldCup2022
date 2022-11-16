@@ -72,18 +72,14 @@ date,home_team,away_team,home_score,away_score,tournament
 8/18/2018,Grenada,Jamaica,1,5,Friendly
 8/18/2018,Guatemala,Cuba,1,0,Friendly
 8/20/2018,Barbados,Jamaica,2,2,Friendly
-8/22/2018,Sint Maarten,Anguilla,1,1,Friendly
-8/25/2018,Anguilla,Saint Martin,1,2,Friendly
 8/26/2018,Barbados,Cuba,0,0,Friendly
 8/29/2018,Bangladesh,Sri Lanka,0,1,Friendly
 8/29/2018,Barbados,Cuba,0,2,Friendly
 8/29/2018,Macau,Solomon Islands,1,4,Friendly
 9/1/2018,Timor-Leste,Brunei,3,1,AFF Championship qualification
 9/2/2018,Ethiopia,Burundi,1,1,Friendly
-9/2/2018,Guam,Northern Mariana Islands,4,0,EAFF Championship
 9/2/2018,Mongolia,Macau,4,1,EAFF Championship
 9/4/2018,Macau,Guam,2,0,EAFF Championship
-9/4/2018,Mongolia,Northern Mariana Islands,9,0,EAFF Championship
 9/4/2018,Nepal,Pakistan,1,2,SAFF Cup
 9/4/2018,Bangladesh,Bhutan,2,0,SAFF Cup
 9/5/2018,Fiji,Solomon Islands,1,1,Friendly
@@ -106,7 +102,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/6/2018,Portugal,Croatia,1,1,Friendly
 9/6/2018,Trinidad and Tobago,United Arab Emirates,2,0,Friendly
 9/6/2018,Uzbekistan,Syria,1,1,Friendly
-9/6/2018,Northern Mariana Islands,Macau,1,1,EAFF Championship
 9/6/2018,Mongolia,Guam,1,1,EAFF Championship
 9/6/2018,Nepal,Bhutan,4,0,SAFF Cup
 9/6/2018,Bangladesh,Pakistan,1,0,SAFF Cup
@@ -130,9 +125,7 @@ date,home_team,away_team,home_score,away_score,tournament
 9/7/2018,United States,Brazil,0,2,Friendly
 9/7/2018,Venezuela,Colombia,1,2,Friendly
 9/7/2018,Maldives,Sri Lanka,0,0,SAFF Cup
-9/7/2018,Anguilla,French Guiana,0,5,CONCACAF Nations League qualification
 9/7/2018,Antigua and Barbuda,Saint Lucia,0,3,CONCACAF Nations League qualification
-9/7/2018,Belize,Bahamas,4,0,CONCACAF Nations League qualification
 9/8/2018,Switzerland,Iceland,6,0,UEFA Nations League
 9/8/2018,England,Spain,1,2,UEFA Nations League
 9/8/2018,Northern Ireland,Bosnia and Herzegovina,1,2,UEFA Nations League
@@ -153,7 +146,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/8/2018,Pakistan,Bhutan,3,0,SAFF Cup
 9/8/2018,Bangladesh,Nepal,0,2,SAFF Cup
 9/8/2018,Saint Vincent and the Grenadines,Nicaragua,0,2,CONCACAF Nations League qualification
-9/8/2018,Cuba,Turks and Caicos Islands,11,0,CONCACAF Nations League qualification
 9/8/2018,Montserrat,El Salvador,1,2,CONCACAF Nations League qualification
 9/9/2018,France,Netherlands,2,1,UEFA Nations League
 9/9/2018,Ukraine,Slovakia,1,0,UEFA Nations League
@@ -168,7 +160,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/9/2018,Congo,Zimbabwe,1,1,African Cup of Nations qualification
 9/9/2018,Rwanda,Ivory Coast,1,2,African Cup of Nations qualification
 9/9/2018,India,Maldives,2,0,SAFF Cup
-9/9/2018,Bonaire,Dominican Republic,0,5,CONCACAF Nations League qualification
 9/9/2018,United States Virgin Islands,Canada,0,8,CONCACAF Nations League qualification
 9/9/2018,Aruba,Bermuda,3,1,CONCACAF Nations League qualification
 9/9/2018,Jamaica,Cayman Islands,4,0,CONCACAF Nations League qualification
@@ -187,7 +178,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/10/2018,Kyrgyzstan,Syria,2,1,Friendly
 9/10/2018,Russia,Czech Republic,5,1,Friendly
 9/10/2018,Saudi Arabia,Bolivia,2,2,Friendly
-9/10/2018,Haiti,Sint Maarten,13,0,CONCACAF Nations League qualification
 9/10/2018,Curaçao,Grenada,10,0,CONCACAF Nations League qualification
 9/11/2018,Iceland,Belgium,0,3,UEFA Nations League
 9/11/2018,Spain,Croatia,6,0,UEFA Nations League
@@ -214,7 +204,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/11/2018,Singapore,Fiji,2,0,Friendly
 9/11/2018,United States,Mexico,1,0,Friendly
 9/11/2018,Uzbekistan,Iran,0,1,Friendly
-9/11/2018,Saint Martin,Guadeloupe,0,3,CONCACAF Nations League qualification
 9/12/2018,Brazil,El Salvador,5,0,Friendly
 9/12/2018,India,Pakistan,3,1,SAFF Cup
 9/12/2018,Nepal,Maldives,0,3,SAFF Cup
@@ -244,7 +233,6 @@ date,home_team,away_team,home_score,away_score,tournament
 10/11/2018,United States,Colombia,2,4,Friendly
 10/11/2018,Wales,Spain,1,4,Friendly
 10/11/2018,Congo,Liberia,3,1,African Cup of Nations qualification
-10/11/2018,French Guiana,Saint Vincent and the Grenadines,0,1,CONCACAF Nations League qualification
 10/12/2018,Belgium,Switzerland,2,1,UEFA Nations League
 10/12/2018,Croatia,England,0,0,UEFA Nations League
 10/12/2018,Austria,Northern Ireland,1,0,UEFA Nations League
@@ -267,11 +255,8 @@ date,home_team,away_team,home_score,away_score,tournament
 10/12/2018,Angola,Mauritania,4,1,African Cup of Nations qualification
 10/12/2018,Egypt,Eswatini,4,1,African Cup of Nations qualification
 10/12/2018,Cape Verde,Tanzania,3,0,African Cup of Nations qualification
-10/12/2018,Basque Country,Venezuela,4,2,Friendly
 10/12/2018,United States Virgin Islands,Curaçao,0,5,CONCACAF Nations League qualification
-10/12/2018,Bahamas,Antigua and Barbuda,0,6,CONCACAF Nations League qualification
 10/12/2018,Dominican Republic,Cayman Islands,3,0,CONCACAF Nations League qualification
-10/12/2018,Bermuda,Sint Maarten,12,0,CONCACAF Nations League qualification
 10/12/2018,Grenada,Cuba,0,2,CONCACAF Nations League qualification
 10/13/2018,Netherlands,Germany,3,0,UEFA Nations League
 10/13/2018,Slovakia,Czech Republic,1,2,UEFA Nations League
@@ -288,8 +273,6 @@ date,home_team,away_team,home_score,away_score,tournament
 10/13/2018,Uzbekistan,North Korea,2,0,Friendly
 10/13/2018,Equatorial Guinea,Madagascar,0,1,African Cup of Nations qualification
 10/13/2018,Nigeria,Libya,4,0,African Cup of Nations qualification
-10/13/2018,Puerto Rico,Martinique,0,1,CONCACAF Nations League qualification
-10/13/2018,Turks and Caicos Islands,Guyana,0,8,CONCACAF Nations League qualification
 10/13/2018,Suriname,British Virgin Islands,5,0,CONCACAF Nations League qualification
 10/13/2018,El Salvador,Barbados,3,0,CONCACAF Nations League qualification
 10/14/2018,Poland,Italy,0,1,UEFA Nations League
@@ -302,10 +285,7 @@ date,home_team,away_team,home_score,away_score,tournament
 10/14/2018,Scotland,Portugal,1,3,Friendly
 10/14/2018,Thailand,Trinidad and Tobago,1,0,Friendly
 10/14/2018,Guinea-Bissau,Zambia,2,1,African Cup of Nations qualification
-10/14/2018,Saint Martin,Saint Kitts and Nevis,0,10,CONCACAF Nations League qualification
-10/14/2018,Bonaire,Jamaica,0,6,CONCACAF Nations League qualification
 10/14/2018,Montserrat,Belize,1,0,CONCACAF Nations League qualification
-10/14/2018,Nicaragua,Anguilla,6,0,CONCACAF Nations League qualification
 10/15/2018,Iceland,Switzerland,1,2,UEFA Nations League
 10/15/2018,Spain,England,2,3,UEFA Nations League
 10/15/2018,Bosnia and Herzegovina,Northern Ireland,2,0,UEFA Nations League
@@ -354,11 +334,8 @@ date,home_team,away_team,home_score,away_score,tournament
 10/16/2018,Eswatini,Egypt,0,2,African Cup of Nations qualification
 10/16/2018,Tanzania,Cape Verde,2,0,African Cup of Nations qualification
 10/16/2018,Argentina,Brazil,0,1,Superclásico de las Américas
-10/16/2018,Martinique,British Virgin Islands,4,0,CONCACAF Nations League qualification
 10/16/2018,Canada,Dominica,5,0,CONCACAF Nations League qualification
-10/16/2018,Guadeloupe,Aruba,0,0,CONCACAF Nations League qualification
 10/16/2018,Saint Lucia,Haiti,1,2,CONCACAF Nations League qualification
-10/21/2018,Parishes of Jersey,Yorkshire,2,1,Friendly
 11/3/2018,Malaysia,Maldives,3,0,Friendly
 11/8/2018,Cambodia,Malaysia,0,1,AFF Championship
 11/8/2018,Laos,Vietnam,0,3,AFF Championship
@@ -414,7 +391,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/16/2018,Egypt,Tunisia,3,2,African Cup of Nations qualification
 11/16/2018,Taiwan,North Korea,0,2,EAFF Championship
 11/16/2018,Mongolia,Hong Kong,1,5,EAFF Championship
-11/16/2018,Grenada,Saint Martin,5,2,CONCACAF Nations League qualification
 11/16/2018,Bermuda,El Salvador,1,0,CONCACAF Nations League qualification
 11/16/2018,Aruba,Montserrat,0,2,CONCACAF Nations League qualification
 11/16/2018,Belize,Puerto Rico,1,0,CONCACAF Nations League qualification
@@ -451,9 +427,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/18/2018,Congo,DR Congo,1,1,African Cup of Nations qualification
 11/18/2018,Guinea,Ivory Coast,1,1,African Cup of Nations qualification
 11/18/2018,Angola,Burkina Faso,2,1,African Cup of Nations qualification
-11/18/2018,Yorkshire,Panjab,5,4,Friendly
-11/18/2018,Turks and Caicos Islands,Saint Vincent and the Grenadines,3,2,CONCACAF Nations League qualification
-11/18/2018,Bahamas,Anguilla,1,1,CONCACAF Nations League qualification
 11/18/2018,Barbados,United States Virgin Islands,3,0,CONCACAF Nations League qualification
 11/18/2018,Saint Kitts and Nevis,Canada,0,1,CONCACAF Nations League qualification
 11/19/2018,Germany,Netherlands,2,2,UEFA Nations League
@@ -467,8 +440,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/19/2018,Liechtenstein,Armenia,2,2,UEFA Nations League
 11/19/2018,Iceland,Qatar,2,2,Friendly
 11/19/2018,Oman,Bahrain,2,1,Friendly
-11/19/2018,Curaçao,Guadeloupe,6,0,CONCACAF Nations League qualification
-11/19/2018,Martinique,Antigua and Barbuda,4,2,CONCACAF Nations League qualification
 11/20/2018,Portugal,Poland,1,1,UEFA Nations League
 11/20/2018,Sweden,Russia,2,0,UEFA Nations League
 11/20/2018,Scotland,Israel,3,2,UEFA Nations League
@@ -500,8 +471,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/20/2018,United Arab Emirates,Yemen,2,0,Friendly
 11/20/2018,Myanmar,Vietnam,0,0,AFF Championship
 11/20/2018,Cambodia,Laos,3,1,AFF Championship
-11/20/2018,Sint Maarten,Dominica,0,2,CONCACAF Nations League qualification
-11/20/2018,French Guiana,Guyana,2,1,CONCACAF Nations League qualification
 11/21/2018,Philippines,Thailand,1,1,AFF Championship
 11/21/2018,Singapore,Timor-Leste,6,1,AFF Championship
 11/24/2018,Vietnam,Cambodia,3,0,AFF Championship
@@ -602,7 +571,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/4/2019,Barbados,Grenada,3,0,Friendly
 3/6/2019,El Salvador,Guatemala,3,1,Friendly
 3/9/2019,Cambodia,Bangladesh,0,1,Friendly
-3/16/2019,Bahamas,Turks and Caicos Islands,6,1,Friendly
 3/18/2019,Fiji,New Caledonia,3,0,Friendly
 3/18/2019,Solomon Islands,Vanuatu,3,1,Friendly
 3/19/2019,Myanmar,Taiwan,0,0,Friendly
@@ -623,7 +591,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/21/2019,Cyprus,San Marino,5,0,UEFA Euro qualification
 3/21/2019,Belgium,Russia,3,1,UEFA Euro qualification
 3/21/2019,Kazakhstan,Scotland,3,0,UEFA Euro qualification
-3/21/2019,British Virgin Islands,Turks and Caicos Islands,2,2,CONCACAF Nations League qualification
 3/22/2019,Argentina,Venezuela,1,3,Friendly
 3/22/2019,Guatemala,Costa Rica,1,0,Friendly
 3/22/2019,Japan,Colombia,0,1,Kirin Challenge Cup
@@ -638,8 +605,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/22/2019,Andorra,Iceland,0,2,UEFA Euro qualification
 3/22/2019,Moldova,France,1,4,UEFA Euro qualification
 3/22/2019,Botswana,Angola,0,1,African Cup of Nations qualification
-3/22/2019,Anguilla,United States Virgin Islands,0,3,CONCACAF Nations League qualification
-3/22/2019,Saint Vincent and the Grenadines,Bonaire,2,1,CONCACAF Nations League qualification
 3/22/2019,Cayman Islands,Montserrat,1,2,CONCACAF Nations League qualification
 3/22/2019,Saint Lucia,Aruba,3,2,CONCACAF Nations League qualification
 3/23/2019,Brazil,Panama,1,1,Friendly
@@ -659,12 +624,9 @@ date,home_team,away_team,home_score,away_score,tournament
 3/23/2019,Ghana,Kenya,1,0,African Cup of Nations qualification
 3/23/2019,Niger,Egypt,1,1,African Cup of Nations qualification
 3/23/2019,Zambia,Namibia,4,1,African Cup of Nations qualification
-3/23/2019,Dominica,Bahamas,4,0,CONCACAF Nations League qualification
-3/23/2019,Sint Maarten,Saint Martin,4,3,CONCACAF Nations League qualification
 3/23/2019,Antigua and Barbuda,Curaçao,2,1,CONCACAF Nations League qualification
 3/23/2019,Guyana,Belize,2,1,CONCACAF Nations League qualification
 3/23/2019,Suriname,Saint Kitts and Nevis,2,0,CONCACAF Nations League qualification
-3/23/2019,Guadeloupe,Martinique,0,1,CONCACAF Nations League qualification
 3/24/2019,Taiwan,Solomon Islands,0,1,Friendly
 3/24/2019,Fiji,Mauritius,1,0,Friendly
 3/24/2019,Northern Ireland,Belarus,2,1,UEFA Euro qualification
@@ -682,14 +644,11 @@ date,home_team,away_team,home_score,away_score,tournament
 3/24/2019,Zimbabwe,Congo,2,0,African Cup of Nations qualification
 3/24/2019,Central African Republic,Guinea,0,0,African Cup of Nations qualification
 3/24/2019,Tanzania,Uganda,3,0,African Cup of Nations qualification
-3/24/2019,British Virgin Islands,Bonaire,1,2,CONCACAF Nations League qualification
 3/24/2019,Puerto Rico,Grenada,0,2,CONCACAF Nations League qualification
-3/24/2019,Canada,French Guiana,4,1,CONCACAF Nations League qualification
 3/24/2019,Dominican Republic,Bermuda,1,3,CONCACAF Nations League qualification
 3/24/2019,Haiti,Cuba,2,1,CONCACAF Nations League qualification
 3/24/2019,Barbados,Nicaragua,0,1,CONCACAF Nations League qualification
 3/24/2019,El Salvador,Jamaica,2,0,CONCACAF Nations League qualification
-3/25/2019,Catalonia,Venezuela,2,1,Friendly
 3/25/2019,Azerbaijan,Lithuania,0,0,Friendly
 3/25/2019,Kuwait,Nepal,1,0,Friendly
 3/25/2019,Myanmar,Indonesia,0,2,Friendly
@@ -728,12 +687,9 @@ date,home_team,away_team,home_score,away_score,tournament
 3/26/2019,Armenia,Finland,0,2,UEFA Euro qualification
 4/20/2019,Botswana,Seychelles,2,0,African Nations Championship qualification
 4/20/2019,Eswatini,Malawi,0,0,African Nations Championship qualification
-5/4/2019,Yorkshire,Somaliland,6,2,Friendly
 5/11/2019,Malawi,Eswatini,1,1,African Nations Championship qualification
 5/11/2019,Seychelles,Botswana,1,3,African Nations Championship qualification
 5/25/2019,Eswatini,Mauritius,2,2,COSAFA Cup
-5/25/2019,Kernow,Barawa,5,0,Friendly
-5/25/2019,Cascadia,Chagos Islands,6,3,Friendly
 5/26/2019,Mozambique,Namibia,1,2,COSAFA Cup
 5/26/2019,Malawi,Seychelles,3,0,COSAFA Cup
 5/27/2019,Eswatini,Comoros,2,2,COSAFA Cup
@@ -741,7 +697,6 @@ date,home_team,away_team,home_score,away_score,tournament
 5/28/2019,Namibia,Malawi,1,2,COSAFA Cup
 5/28/2019,Laos,Sri Lanka,2,1,Friendly
 5/29/2019,Comoros,Mauritius,2,1,COSAFA Cup
-5/29/2019,Panama,Basque Country,0,0,Friendly
 5/30/2019,Mozambique,Malawi,1,1,COSAFA Cup
 5/30/2019,Namibia,Seychelles,3,0,COSAFA Cup
 5/30/2019,Turkey,Greece,2,1,Friendly
@@ -749,7 +704,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/1/2019,Lesotho,Uganda,0,0,COSAFA Cup
 6/1/2019,Zimbabwe,Comoros,2,0,COSAFA Cup
 6/1/2019,Venezuela,Ecuador,1,1,Friendly
-6/1/2019,Yorkshire,Parishes of Jersey,1,0,Atlantic Heritage Cup
 6/2/2019,South Africa,Botswana,2,2,COSAFA Cup
 6/2/2019,Zambia,Malawi,2,2,COSAFA Cup
 6/2/2019,El Salvador,Haiti,1,0,Friendly
@@ -757,22 +711,9 @@ date,home_team,away_team,home_score,away_score,tournament
 6/2/2019,Luxembourg,Madagascar,3,3,Friendly
 6/2/2019,Malaysia,Nepal,2,0,Friendly
 6/2/2019,Turkey,Uzbekistan,0,0,Friendly
-6/2/2019,Abkhazia,Chameria,3,1,CONIFA European Football Cup
-6/2/2019,Artsakh,Sápmi,3,2,CONIFA European Football Cup
-6/2/2019,Padania,Székely Land,4,0,CONIFA European Football Cup
-6/2/2019,Western Armenia,South Ossetia,1,2,CONIFA European Football Cup
-6/2/2019,Parishes of Jersey,Chagos Islands,9,2,Atlantic Heritage Cup
 6/3/2019,Colombia,Panama,3,0,Friendly
 6/3/2019,Vanuatu,Tahiti,2,0,Friendly
-6/3/2019,Artsakh,Chameria,1,4,CONIFA European Football Cup
-6/3/2019,Sápmi,Abkhazia,0,1,CONIFA European Football Cup
-6/3/2019,Székely Land,Western Armenia,0,5,CONIFA European Football Cup
-6/3/2019,South Ossetia,Padania,2,1,CONIFA European Football Cup
 6/4/2019,Comoros,Malawi,1,2,COSAFA Cup
-6/4/2019,Artsakh,Abkhazia,1,1,CONIFA European Football Cup
-6/4/2019,Chameria,Sápmi,4,0,CONIFA European Football Cup
-6/4/2019,South Ossetia,Székely Land,2,2,CONIFA European Football Cup
-6/4/2019,Padania,Western Armenia,1,1,CONIFA European Football Cup
 6/4/2019,South Africa,Uganda,1,1,COSAFA Cup
 6/5/2019,Lesotho,Botswana,1,2,COSAFA Cup
 6/5/2019,Zimbabwe,Zambia,0,0,COSAFA Cup
@@ -790,10 +731,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/6/2019,Slovakia,Jordan,5,1,Friendly
 6/6/2019,Tajikistan,Afghanistan,1,1,Friendly
 6/6/2019,England,Netherlands,1,3,UEFA Nations League
-6/6/2019,Abkhazia,Western Armenia,1,1,CONIFA European Football Cup
-6/6/2019,South Ossetia,Chameria,0,0,CONIFA European Football Cup
-6/6/2019,Padania,Sápmi,4,0,CONIFA European Football Cup
-6/6/2019,Artsakh,Székely Land,2,1,CONIFA European Football Cup
 6/6/2019,Bhutan,Guam,1,0,FIFA World Cup qualification
 6/6/2019,Cambodia,Pakistan,2,0,FIFA World Cup qualification
 6/6/2019,Laos,Bangladesh,0,1,FIFA World Cup qualification
@@ -840,9 +777,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/8/2019,Angola,Guinea-Bissau,2,0,Friendly
 6/8/2019,Nigeria,Zimbabwe,0,0,Friendly
 6/8/2019,Singapore,Solomon Islands,4,3,Friendly
-6/8/2019,Abkhazia,Chameria,0,0,CONIFA European Football Cup
-6/8/2019,Sápmi,Székely Land,3,2,CONIFA European Football Cup
-6/8/2019,Artsakh,Padania,2,0,CONIFA European Football Cup
 6/9/2019,Brazil,Honduras,7,0,Friendly
 6/9/2019,Cameroon,Zambia,2,1,Friendly
 6/9/2019,DR Congo,Burkina Faso,0,0,Friendly
@@ -854,7 +788,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/9/2019,United States,Venezuela,0,3,Friendly
 6/9/2019,Switzerland,England,0,0,UEFA Nations League
 6/9/2019,Portugal,Netherlands,1,0,UEFA Nations League
-6/9/2019,Western Armenia,South Ossetia,0,1,CONIFA European Football Cup
 6/10/2019,Czech Republic,Montenegro,3,0,UEFA Euro qualification
 6/10/2019,Bulgaria,Kosovo,2,3,UEFA Euro qualification
 6/10/2019,Serbia,Lithuania,4,1,UEFA Euro qualification
@@ -898,24 +831,18 @@ date,home_team,away_team,home_score,away_score,tournament
 6/11/2019,Sri Lanka,Macau,3,0,FIFA World Cup qualification
 6/11/2019,Malaysia,Timor-Leste,5,1,FIFA World Cup qualification
 6/12/2019,Morocco,Gambia,0,1,Friendly
-6/12/2019,Ynys Môn,Saint Helena,7,2,Friendly
 6/13/2019,Egypt,Tanzania,1,0,Friendly
 6/14/2019,Cameroon,Mali,1,1,Friendly
 6/14/2019,Madagascar,Mauritania,1,3,Friendly
 6/14/2019,Brazil,Bolivia,3,0,Copa América
 6/15/2019,Venezuela,Peru,0,0,Copa América
 6/15/2019,Argentina,Colombia,0,2,Copa América
-6/15/2019,Canada,Martinique,4,0,Gold Cup
 6/15/2019,Mexico,Cuba,7,0,Gold Cup
 6/15/2019,Ghana,South Africa,0,0,Friendly
 6/15/2019,Indonesia,Vanuatu,6,0,Friendly
 6/15/2019,Ivory Coast,Uganda,0,1,Friendly
 6/15/2019,Kenya,DR Congo,1,1,Friendly
 6/15/2019,Tanzania,Zimbabwe,1,1,Friendly
-6/16/2019,Jersey,Orkney,5,0,Inter Games Football Tournament
-6/16/2019,Ynys Môn,Western Isles,2,1,Inter Games Football Tournament
-6/16/2019,Alderney,Hitra,2,4,Inter Games Football Tournament
-6/16/2019,Saint Helena,Shetland,1,6,Inter Games Football Tournament
 6/16/2019,Paraguay,Qatar,2,2,Copa América
 6/16/2019,Uruguay,Ecuador,4,0,Copa América
 6/16/2019,Haiti,Bermuda,2,1,Gold Cup
@@ -924,18 +851,10 @@ date,home_team,away_team,home_score,away_score,tournament
 6/16/2019,Egypt,Guinea,3,1,Friendly
 6/16/2019,Morocco,Zambia,2,3,Friendly
 6/16/2019,Senegal,Nigeria,1,0,Friendly
-6/17/2019,Ynys Môn,Orkney,3,1,Inter Games Football Tournament
-6/17/2019,Jersey,Western Isles,7,0,Inter Games Football Tournament
-6/17/2019,Isle of Man,Hitra,7,1,Inter Games Football Tournament
-6/17/2019,Guernsey,Shetland,2,1,Inter Games Football Tournament
 6/17/2019,Japan,Chile,0,4,Copa América
 6/17/2019,Curaçao,El Salvador,0,1,Gold Cup
 6/17/2019,Jamaica,Honduras,3,2,Gold Cup
 6/17/2019,Tunisia,Burundi,2,1,Friendly
-6/18/2019,Ynys Môn,Jersey,1,0,Inter Games Football Tournament
-6/18/2019,Western Isles,Orkney,1,2,Inter Games Football Tournament
-6/18/2019,Isle of Man,Alderney,6,1,Inter Games Football Tournament
-6/18/2019,Guernsey,Saint Helena,9,0,Inter Games Football Tournament
 6/18/2019,Bolivia,Peru,1,3,Copa América
 6/18/2019,Brazil,Venezuela,0,0,Copa América
 6/18/2019,Panama,Trinidad and Tobago,2,0,Gold Cup
@@ -943,19 +862,11 @@ date,home_team,away_team,home_score,away_score,tournament
 6/18/2019,Benin,Mauritania,3,1,Friendly
 6/19/2019,Colombia,Qatar,1,0,Copa América
 6/19/2019,Argentina,Paraguay,1,1,Copa América
-6/19/2019,Cuba,Martinique,0,3,Gold Cup
 6/19/2019,Mexico,Canada,3,1,Gold Cup
 6/19/2019,Ivory Coast,Zambia,4,1,Friendly
-6/20/2019,Western Isles,Saint Helena,2,1,Inter Games Football Tournament
-6/20/2019,Orkney,Alderney,1,2,Inter Games Football Tournament
-6/20/2019,Jersey,Hitra,3,1,Inter Games Football Tournament
-6/20/2019,Ynys Môn,Shetland,2,1,Inter Games Football Tournament
-6/20/2019,Isle of Man,Guernsey,2,3,Inter Games Football Tournament
 6/20/2019,Uruguay,Japan,2,2,Copa América
 6/20/2019,Nicaragua,Haiti,0,2,Gold Cup
 6/20/2019,Costa Rica,Bermuda,2,1,Gold Cup
-6/21/2019,Shetland,Isle of Man,0,5,Inter Games Football Tournament
-6/21/2019,Ynys Môn,Guernsey,2,1,Inter Games Football Tournament
 6/21/2019,Egypt,Zimbabwe,1,0,African Cup of Nations
 6/21/2019,Ecuador,Chile,1,2,Copa América
 6/21/2019,El Salvador,Jamaica,0,0,Gold Cup
@@ -973,7 +884,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/23/2019,Colombia,Paraguay,1,0,Copa América
 6/23/2019,Qatar,Argentina,0,2,Copa América
 6/23/2019,Canada,Cuba,7,0,Gold Cup
-6/23/2019,Martinique,Mexico,2,3,Gold Cup
 6/24/2019,Ivory Coast,South Africa,1,0,African Cup of Nations
 6/24/2019,Tunisia,Angola,1,1,African Cup of Nations
 6/24/2019,Mali,Mauritania,4,1,African Cup of Nations
@@ -1035,37 +945,29 @@ date,home_team,away_team,home_score,away_score,tournament
 7/7/2019,India,Tajikistan,2,4,Intercontinental Cup
 7/8/2019,Ghana,Tunisia,1,1,African Cup of Nations
 7/8/2019,Mali,Ivory Coast,0,1,African Cup of Nations
-7/8/2019,Samoa,Papua New Guinea,0,6,Pacific Games
+7/8/2019,American Samoa,Papua New Guinea,0,6,Pacific Games
 7/8/2019,American Samoa,New Caledonia,0,5,Pacific Games
-7/8/2019,Tuvalu,Solomon Islands,0,13,Pacific Games
 7/8/2019,Tahiti,Fiji,1,2,Pacific Games
 7/8/2019,Syria,North Korea,5,2,Intercontinental Cup
 7/10/2019,Nigeria,South Africa,2,1,African Cup of Nations
 7/10/2019,Senegal,Benin,1,0,African Cup of Nations
 7/10/2019,Papua New Guinea,Vanuatu,2,0,Pacific Games
-7/10/2019,Tuvalu,Tahiti,0,7,Pacific Games
 7/10/2019,American Samoa,Fiji,0,9,Pacific Games
 7/10/2019,Solomon Islands,New Caledonia,0,2,Pacific Games
 7/10/2019,Tajikistan,Syria,2,0,Intercontinental Cup
 7/11/2019,Ivory Coast,Algeria,1,1,African Cup of Nations
 7/11/2019,Madagascar,Tunisia,0,3,African Cup of Nations
-7/12/2019,Samoa,Tonga,2,0,Pacific Games
-7/12/2019,American Samoa,Tuvalu,1,1,Pacific Games
 7/12/2019,Solomon Islands,Tahiti,0,3,Pacific Games
 7/12/2019,New Caledonia,Fiji,1,0,Pacific Games
 7/13/2019,India,North Korea,2,5,Intercontinental Cup
 7/14/2019,Algeria,Nigeria,2,1,African Cup of Nations
 7/14/2019,Senegal,Tunisia,1,0,African Cup of Nations
-7/15/2019,Tonga,Vanuatu,0,14,Pacific Games
-7/15/2019,Fiji,Tuvalu,10,1,Pacific Games
 7/15/2019,Solomon Islands,American Samoa,13,0,Pacific Games
 7/15/2019,Tahiti,New Caledonia,0,3,Pacific Games
 7/15/2019,North Korea,Tajikistan,1,0,Intercontinental Cup
 7/16/2019,India,Syria,1,1,Intercontinental Cup
 7/17/2019,Tunisia,Nigeria,0,1,African Cup of Nations
-7/18/2019,Papua New Guinea,Tonga,8,0,Pacific Games
-7/18/2019,Samoa,Vanuatu,0,11,Pacific Games
-7/18/2019,New Caledonia,Tuvalu,11,0,Pacific Games
+7/18/2019,American Samoa,Vanuatu,0,11,Pacific Games
 7/18/2019,American Samoa,Tahiti,8,1,Pacific Games
 7/18/2019,Fiji,Solomon Islands,4,4,Pacific Games
 7/19/2019,Senegal,Algeria,0,1,African Cup of Nations
@@ -1076,7 +978,6 @@ date,home_team,away_team,home_score,away_score,tournament
 7/26/2019,Botswana,Zambia,0,0,African Nations Championship qualification
 7/26/2019,Comoros,Namibia,0,2,African Nations Championship qualification
 7/27/2019,Burundi,South Sudan,2,0,African Nations Championship qualification
-7/27/2019,Somalia,Uganda,1,3,African Nations Championship qualification
 7/27/2019,Cape Verde,Mauritania,0,0,African Nations Championship qualification
 7/27/2019,Guinea-Bissau,Mali,0,4,African Nations Championship qualification
 7/28/2019,Chad,Equatorial Guinea,3,3,African Nations Championship qualification
@@ -1087,7 +988,6 @@ date,home_team,away_team,home_score,away_score,tournament
 7/28/2019,Liberia,Senegal,1,0,African Nations Championship qualification
 7/28/2019,Benin,Togo,0,0,African Nations Championship qualification
 7/29/2019,Mauritius,Zimbabwe,0,4,African Nations Championship qualification
-8/3/2019,Uganda,Somalia,4,1,African Nations Championship qualification
 8/3/2019,Angola,Eswatini,1,1,African Nations Championship qualification
 8/3/2019,Zambia,Botswana,3,2,African Nations Championship qualification
 8/3/2019,Mauritania,Cape Verde,2,1,African Nations Championship qualification
@@ -1115,7 +1015,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/4/2019,Libya,Burkina Faso,0,1,Friendly
 9/4/2019,Burundi,Tanzania,1,1,FIFA World Cup qualification
 9/4/2019,Djibouti,Eswatini,2,1,FIFA World Cup qualification
-9/4/2019,Eritrea,Namibia,1,2,FIFA World Cup qualification
 9/4/2019,Ethiopia,Lesotho,0,0,FIFA World Cup qualification
 9/4/2019,Liberia,Sierra Leone,3,1,FIFA World Cup qualification
 9/4/2019,Mauritius,Mozambique,0,1,FIFA World Cup qualification
@@ -1140,11 +1039,8 @@ date,home_team,away_team,home_score,away_score,tournament
 9/5/2019,Japan,Paraguay,2,0,Kirin Challenge Cup
 9/5/2019,Bermuda,Panama,1,4,CONCACAF Nations League
 9/5/2019,Grenada,Saint Kitts and Nevis,2,1,CONCACAF Nations League
-9/5/2019,French Guiana,Belize,3,0,CONCACAF Nations League
 9/5/2019,Dominica,Suriname,1,2,CONCACAF Nations League
 9/5/2019,United States Virgin Islands,Cayman Islands,0,2,CONCACAF Nations League
-9/5/2019,Barbados,Saint Martin,4,0,CONCACAF Nations League
-9/5/2019,Guatemala,Anguilla,10,0,CONCACAF Nations League
 9/5/2019,Guam,Maldives,0,1,FIFA World Cup qualification
 9/5/2019,Philippines,Syria,2,5,FIFA World Cup qualification
 9/5/2019,Taiwan,Jordan,1,2,FIFA World Cup qualification
@@ -1163,7 +1059,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/5/2019,Sri Lanka,Turkmenistan,0,2,FIFA World Cup qualification
 9/5/2019,Chad,Sudan,1,3,FIFA World Cup qualification
 9/5/2019,Seychelles,Rwanda,0,3,FIFA World Cup qualification
-9/5/2019,Somalia,Zimbabwe,1,0,FIFA World Cup qualification
 9/6/2019,Brazil,Colombia,2,2,Friendly
 9/6/2019,Costa Rica,Uruguay,1,2,Friendly
 9/6/2019,Ivory Coast,Benin,1,2,Friendly
@@ -1179,11 +1074,9 @@ date,home_team,away_team,home_score,away_score,tournament
 9/6/2019,Cyprus,Kazakhstan,1,1,UEFA Euro qualification
 9/6/2019,Scotland,Russia,1,2,UEFA Euro qualification
 9/6/2019,San Marino,Belgium,0,4,UEFA Euro qualification
-9/6/2019,Martinique,Trinidad and Tobago,1,1,CONCACAF Nations League
 9/6/2019,Aruba,Guyana,0,1,CONCACAF Nations League
 9/6/2019,Jamaica,Antigua and Barbuda,6,0,CONCACAF Nations League
 9/6/2019,Nicaragua,Saint Vincent and the Grenadines,1,1,CONCACAF Nations League
-9/6/2019,Bonaire,British Virgin Islands,4,2,CONCACAF Nations League
 9/6/2019,Comoros,Togo,1,1,FIFA World Cup qualification
 9/6/2019,Gambia,Angola,0,1,FIFA World Cup qualification
 9/7/2019,Libya,Niger,2,0,Friendly
@@ -1198,7 +1091,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/7/2019,Curaçao,Haiti,1,0,CONCACAF Nations League
 9/7/2019,Montserrat,Dominican Republic,2,1,CONCACAF Nations League
 9/7/2019,El Salvador,Saint Lucia,3,0,CONCACAF Nations League
-9/7/2019,Guadeloupe,Sint Maarten,5,1,CONCACAF Nations League
 9/7/2019,Botswana,Malawi,0,0,FIFA World Cup qualification
 9/8/2019,Kenya,Uganda,1,1,Friendly
 9/8/2019,Switzerland,Gibraltar,4,0,UEFA Euro qualification
@@ -1211,10 +1103,8 @@ date,home_team,away_team,home_score,away_score,tournament
 9/8/2019,Greece,Liechtenstein,1,1,UEFA Euro qualification
 9/8/2019,Panama,Bermuda,0,2,CONCACAF Nations League
 9/8/2019,Belize,Grenada,1,2,CONCACAF Nations League
-9/8/2019,Saint Kitts and Nevis,French Guiana,2,2,CONCACAF Nations League
 9/8/2019,Saint Vincent and the Grenadines,Dominica,1,0,CONCACAF Nations League
 9/8/2019,Suriname,Nicaragua,6,0,CONCACAF Nations League
-9/8/2019,Saint Martin,United States Virgin Islands,1,2,CONCACAF Nations League
 9/8/2019,Cayman Islands,Barbados,3,2,CONCACAF Nations League
 9/8/2019,Equatorial Guinea,South Sudan,1,0,FIFA World Cup qualification
 9/8/2019,Lesotho,Ethiopia,1,1,FIFA World Cup qualification
@@ -1233,10 +1123,8 @@ date,home_team,away_team,home_score,away_score,tournament
 9/9/2019,Scotland,Belgium,0,4,UEFA Euro qualification
 9/9/2019,Russia,Kazakhstan,1,0,UEFA Euro qualification
 9/9/2019,San Marino,Cyprus,0,4,UEFA Euro qualification
-9/9/2019,Trinidad and Tobago,Martinique,2,2,CONCACAF Nations League
 9/9/2019,Antigua and Barbuda,Aruba,2,1,CONCACAF Nations League
 9/9/2019,Guyana,Jamaica,0,4,CONCACAF Nations League
-9/9/2019,Bahamas,Bonaire,2,1,CONCACAF Nations League
 9/10/2019,Argentina,Mexico,4,0,Friendly
 9/10/2019,Brazil,Peru,0,1,Friendly
 9/10/2019,Colombia,Venezuela,0,0,Friendly
@@ -1261,7 +1149,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/10/2019,Montserrat,Saint Lucia,1,1,CONCACAF Nations League
 9/10/2019,Dominican Republic,El Salvador,1,0,CONCACAF Nations League
 9/10/2019,Puerto Rico,Guatemala,0,5,CONCACAF Nations League
-9/10/2019,Turks and Caicos Islands,Guadeloupe,0,3,CONCACAF Nations League
 9/10/2019,Guam,Philippines,1,4,FIFA World Cup qualification
 9/10/2019,Maldives,China PR,0,5,FIFA World Cup qualification
 9/10/2019,Kuwait,Australia,0,3,FIFA World Cup qualification
@@ -1282,12 +1169,10 @@ date,home_team,away_team,home_score,away_score,tournament
 9/10/2019,Guinea-Bissau,São Tomé and Príncipe,2,1,FIFA World Cup qualification
 9/10/2019,Malawi,Botswana,1,0,FIFA World Cup qualification
 9/10/2019,Mozambique,Mauritius,2,0,FIFA World Cup qualification
-9/10/2019,Namibia,Eritrea,2,0,FIFA World Cup qualification
 9/10/2019,Rwanda,Seychelles,7,0,FIFA World Cup qualification
 9/10/2019,Sudan,Chad,0,0,FIFA World Cup qualification
 9/10/2019,Eswatini,Djibouti,0,0,FIFA World Cup qualification
 9/10/2019,Togo,Comoros,2,0,FIFA World Cup qualification
-9/10/2019,Zimbabwe,Somalia,3,1,FIFA World Cup qualification
 9/18/2019,DR Congo,Rwanda,2,3,Friendly
 9/21/2019,Burundi,Uganda,0,3,African Nations Championship qualification
 9/21/2019,Algeria,Morocco,0,0,African Nations Championship qualification
@@ -1338,9 +1223,6 @@ date,home_team,away_team,home_score,away_score,tournament
 10/10/2019,Trinidad and Tobago,Honduras,0,2,CONCACAF Nations League
 10/10/2019,Haiti,Costa Rica,1,1,CONCACAF Nations League
 10/10/2019,Belize,Saint Kitts and Nevis,0,4,CONCACAF Nations League
-10/10/2019,French Guiana,Grenada,0,0,CONCACAF Nations League
-10/10/2019,British Virgin Islands,Bahamas,0,4,CONCACAF Nations League
-10/10/2019,Sint Maarten,Turks and Caicos Islands,2,5,CONCACAF Nations League
 10/10/2019,Syria,Maldives,2,1,FIFA World Cup qualification
 10/10/2019,China PR,Guam,7,0,FIFA World Cup qualification
 10/10/2019,Jordan,Kuwait,0,0,FIFA World Cup qualification
@@ -1387,8 +1269,6 @@ date,home_team,away_team,home_score,away_score,tournament
 10/12/2019,Montserrat,El Salvador,0,2,CONCACAF Nations League
 10/12/2019,Jamaica,Aruba,2,0,CONCACAF Nations League
 10/12/2019,Barbados,United States Virgin Islands,1,0,CONCACAF Nations League
-10/12/2019,Saint Martin,Cayman Islands,3,0,CONCACAF Nations League
-10/12/2019,Anguilla,Guatemala,0,5,CONCACAF Nations League
 10/13/2019,Belarus,Netherlands,1,2,UEFA Euro qualification
 10/13/2019,Estonia,Germany,0,3,UEFA Euro qualification
 10/13/2019,Hungary,Azerbaijan,1,0,UEFA Euro qualification
@@ -1412,11 +1292,8 @@ date,home_team,away_team,home_score,away_score,tournament
 10/13/2019,Niger,Central African Republic,0,2,Friendly
 10/13/2019,Slovakia,Paraguay,1,1,Friendly
 10/13/2019,South Africa,Mali,2,1,Friendly
-10/13/2019,Honduras,Martinique,1,0,CONCACAF Nations League
 10/13/2019,Costa Rica,Curaçao,0,0,CONCACAF Nations League
 10/13/2019,Saint Kitts and Nevis,Belize,0,1,CONCACAF Nations League
-10/13/2019,Grenada,French Guiana,1,0,CONCACAF Nations League
-10/13/2019,British Virgin Islands,Bonaire,3,4,CONCACAF Nations League
 10/14/2019,Kosovo,Montenegro,2,0,UEFA Euro qualification
 10/14/2019,Bulgaria,England,0,6,UEFA Euro qualification
 10/14/2019,Lithuania,Serbia,1,2,UEFA Euro qualification
@@ -1431,7 +1308,6 @@ date,home_team,away_team,home_score,away_score,tournament
 10/14/2019,Guyana,Antigua and Barbuda,5,1,CONCACAF Nations League
 10/14/2019,Dominica,Nicaragua,0,4,CONCACAF Nations League
 10/14/2019,Suriname,Saint Vincent and the Grenadines,0,1,CONCACAF Nations League
-10/14/2019,Sint Maarten,Guadeloupe,1,2,CONCACAF Nations League
 10/15/2019,Gibraltar,Georgia,2,3,UEFA Euro qualification
 10/15/2019,Switzerland,Republic of Ireland,2,0,UEFA Euro qualification
 10/15/2019,Faroe Islands,Malta,1,0,UEFA Euro qualification
@@ -1455,9 +1331,7 @@ date,home_team,away_team,home_score,away_score,tournament
 10/15/2019,Dominican Republic,Montserrat,0,0,CONCACAF Nations League
 10/15/2019,Saint Lucia,El Salvador,0,2,CONCACAF Nations League
 10/15/2019,Aruba,Jamaica,0,6,CONCACAF Nations League
-10/15/2019,Cayman Islands,Saint Martin,1,0,CONCACAF Nations League
 10/15/2019,United States Virgin Islands,Barbados,0,4,CONCACAF Nations League
-10/15/2019,Anguilla,Puerto Rico,2,3,CONCACAF Nations League
 10/15/2019,Syria,Guam,4,0,FIFA World Cup qualification
 10/15/2019,Philippines,China PR,0,0,FIFA World Cup qualification
 10/15/2019,Jordan,Nepal,3,0,FIFA World Cup qualification
@@ -1495,7 +1369,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/9/2019,Namibia,Zambia,0,2,Friendly
 11/9/2019,Uzbekistan,Kyrgyzstan,3,1,Friendly
 11/10/2019,Nicaragua,Cuba,0,1,Friendly
-11/10/2019,Trinidad and Tobago,Anguilla,15,0,Friendly
 11/13/2019,Namibia,Chad,2,1,African Cup of Nations qualification
 11/13/2019,Malawi,South Sudan,1,0,African Cup of Nations qualification
 11/13/2019,Burkina Faso,Uganda,0,0,African Cup of Nations qualification
@@ -1521,12 +1394,8 @@ date,home_team,away_team,home_score,away_score,tournament
 11/14/2019,Turkey,Iceland,0,0,UEFA Euro qualification
 11/14/2019,Albania,Andorra,2,2,UEFA Euro qualification
 11/14/2019,France,Moldova,2,1,UEFA Euro qualification
-11/14/2019,Martinique,Honduras,1,1,CONCACAF Nations League
 11/14/2019,Curaçao,Costa Rica,1,2,CONCACAF Nations League
 11/14/2019,Saint Kitts and Nevis,Grenada,0,0,CONCACAF Nations League
-11/14/2019,Belize,French Guiana,2,0,CONCACAF Nations League
-11/14/2019,Bahamas,British Virgin Islands,3,0,CONCACAF Nations League
-11/14/2019,Turks and Caicos Islands,Sint Maarten,3,2,CONCACAF Nations League
 11/14/2019,Bulgaria,Paraguay,0,1,Friendly
 11/14/2019,Cambodia,Mongolia,1,1,Friendly
 11/14/2019,Ecuador,Trinidad and Tobago,3,0,Friendly
@@ -1584,7 +1453,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/16/2019,Russia,Belgium,1,4,UEFA Euro qualification
 11/16/2019,Saint Lucia,Dominican Republic,1,0,CONCACAF Nations League
 11/16/2019,El Salvador,Montserrat,1,0,CONCACAF Nations League
-11/16/2019,Saint Martin,Barbados,1,0,CONCACAF Nations League
 11/16/2019,Cayman Islands,United States Virgin Islands,1,0,CONCACAF Nations League
 11/16/2019,Guatemala,Puerto Rico,5,0,CONCACAF Nations League
 11/17/2019,Chad,Mali,0,2,African Cup of Nations qualification
@@ -1608,9 +1476,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/17/2019,Honduras,Trinidad and Tobago,4,0,CONCACAF Nations League
 11/17/2019,Costa Rica,Haiti,1,1,CONCACAF Nations League
 11/17/2019,Grenada,Belize,3,2,CONCACAF Nations League
-11/17/2019,French Guiana,Saint Kitts and Nevis,3,1,CONCACAF Nations League
-11/17/2019,Bonaire,Bahamas,1,1,CONCACAF Nations League
-11/17/2019,Guadeloupe,Turks and Caicos Islands,10,0,CONCACAF Nations League
 11/17/2019,Lithuania,New Zealand,1,0,Friendly
 11/18/2019,São Tomé and Príncipe,Ghana,0,1,African Cup of Nations qualification
 11/18/2019,Gambia,DR Congo,2,2,African Cup of Nations qualification
@@ -1654,8 +1519,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/19/2019,El Salvador,Dominican Republic,2,0,CONCACAF Nations League
 11/19/2019,Saint Lucia,Montserrat,0,1,CONCACAF Nations League
 11/19/2019,Barbados,Cayman Islands,3,0,CONCACAF Nations League
-11/19/2019,United States Virgin Islands,Saint Martin,1,2,CONCACAF Nations League
-11/19/2019,Puerto Rico,Anguilla,3,0,CONCACAF Nations League
 11/19/2019,Brazil,South Korea,3,0,Friendly
 11/19/2019,Croatia,Georgia,2,1,Friendly
 11/19/2019,Ecuador,Colombia,0,1,Friendly
@@ -1958,7 +1821,6 @@ date,home_team,away_team,home_score,away_score,tournament
 11/16/2020,Jordan,Syria,1,0,Friendly
 11/16/2020,United Arab Emirates,Bahrain,1,0,Friendly
 11/16/2020,United States,Panama,6,2,Friendly
-11/16/2020,Basque Country,Costa Rica,2,1,Friendly
 11/17/2020,Croatia,Portugal,2,3,UEFA Nations League
 11/17/2020,France,Sweden,4,2,UEFA Nations League
 11/17/2020,Spain,Germany,6,0,UEFA Nations League
@@ -2090,9 +1952,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/27/2021,United States Virgin Islands,Antigua and Barbuda,0,3,FIFA World Cup qualification
 3/27/2021,Aruba,Suriname,0,6,FIFA World Cup qualification
 3/27/2021,British Virgin Islands,Guatemala,0,3,FIFA World Cup qualification
-3/27/2021,Anguilla,Dominican Republic,0,6,FIFA World Cup qualification
-3/27/2021,Turks and Caicos Islands,Nicaragua,0,7,FIFA World Cup qualification
-3/27/2021,Bahamas,Saint Kitts and Nevis,0,4,FIFA World Cup qualification
 3/27/2021,Republic of Ireland,Luxembourg,0,1,FIFA World Cup qualification
 3/27/2021,Serbia,Portugal,2,2,FIFA World Cup qualification
 3/27/2021,Belarus,Estonia,4,2,FIFA World Cup qualification
@@ -2153,9 +2012,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/30/2021,Grenada,United States Virgin Islands,1,0,FIFA World Cup qualification
 3/30/2021,Bermuda,Aruba,5,0,FIFA World Cup qualification
 3/30/2021,Saint Vincent and the Grenadines,British Virgin Islands,3,0,FIFA World Cup qualification
-3/30/2021,Barbados,Anguilla,1,0,FIFA World Cup qualification
-3/30/2021,Belize,Turks and Caicos Islands,5,0,FIFA World Cup qualification
-3/30/2021,Guyana,Bahamas,4,0,FIFA World Cup qualification
 3/30/2021,Azerbaijan,Serbia,1,2,FIFA World Cup qualification
 3/30/2021,Luxembourg,Portugal,1,3,FIFA World Cup qualification
 3/30/2021,Wales,Czech Republic,1,0,FIFA World Cup qualification
@@ -2230,8 +2086,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/2/2021,Montserrat,United States Virgin Islands,4,0,FIFA World Cup qualification
 6/2/2021,Cayman Islands,Aruba,1,3,FIFA World Cup qualification
 6/2/2021,Cuba,British Virgin Islands,5,0,FIFA World Cup qualification
-6/2/2021,Dominica,Anguilla,3,0,FIFA World Cup qualification
-6/2/2021,Puerto Rico,Bahamas,7,0,FIFA World Cup qualification
 6/3/2021,Algeria,Mauritania,4,1,Friendly
 6/3/2021,Andorra,Republic of Ireland,1,4,Friendly
 6/3/2021,Belgium,Greece,1,1,Friendly
@@ -2287,9 +2141,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/5/2021,United States Virgin Islands,El Salvador,0,7,FIFA World Cup qualification
 6/5/2021,Aruba,Canada,0,7,FIFA World Cup qualification
 6/5/2021,British Virgin Islands,Curaçao,0,8,FIFA World Cup qualification
-6/5/2021,Panama,Anguilla,13,0,FIFA World Cup qualification
-6/5/2021,Turks and Caicos Islands,Haiti,0,10,FIFA World Cup qualification
-6/5/2021,Bahamas,Trinidad and Tobago,0,0,FIFA World Cup qualification
 6/6/2021,Algeria,Mali,1,0,Friendly
 6/6/2021,Austria,Slovakia,0,0,Friendly
 6/6/2021,Belgium,Croatia,1,0,Friendly
@@ -2414,7 +2265,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/15/2021,Curaçao,Panama,0,0,FIFA World Cup qualification
 6/15/2021,El Salvador,Saint Kitts and Nevis,2,0,FIFA World Cup qualification
 6/15/2021,Tunisia,Mali,1,0,Friendly
-6/15/2021,Djibouti,Somalia,1,0,Friendly
 6/15/2021,Hungary,Portugal,0,3,UEFA Euro
 6/15/2021,Germany,France,0,1,UEFA Euro
 6/15/2021,Kuwait,Taiwan,2,1,FIFA World Cup qualification
@@ -2440,7 +2290,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/20/2021,Switzerland,Turkey,3,1,UEFA Euro
 6/20/2021,Venezuela,Ecuador,2,2,Copa América
 6/20/2021,Colombia,Peru,1,2,Copa América
-6/20/2021,Oman,Somalia,2,1,Arab Cup qualification
 6/21/2021,Denmark,Russia,4,1,UEFA Euro
 6/21/2021,Finland,Belgium,0,2,UEFA Euro
 6/21/2021,Netherlands,North Macedonia,3,0,UEFA Euro
@@ -2488,15 +2337,11 @@ date,home_team,away_team,home_score,away_score,tournament
 7/3/2021,Uruguay,Colombia,0,0,Copa América
 7/3/2021,Argentina,Ecuador,3,0,Copa América
 7/3/2021,Guatemala,Guyana,4,0,Gold Cup qualification
-7/3/2021,Cuba,French Guiana,0,3,Gold Cup qualification
-7/3/2021,Guadeloupe,Bahamas,2,0,Gold Cup qualification
 7/4/2021,Qatar,El Salvador,1,0,Friendly
 7/5/2021,Brazil,Peru,1,0,Copa América
 7/6/2021,Argentina,Colombia,1,1,Copa América
 7/6/2021,Italy,Spain,1,1,UEFA Euro
 7/6/2021,Haiti,Bermuda,4,1,Gold Cup qualification
-7/6/2021,Guatemala,Guadeloupe,1,1,Gold Cup qualification
-7/6/2021,Trinidad and Tobago,French Guiana,1,1,Gold Cup qualification
 7/6/2021,Eswatini,Lesotho,3,1,COSAFA Cup
 7/6/2021,South Africa,Botswana,1,0,COSAFA Cup
 7/7/2021,England,Denmark,2,1,UEFA Euro
@@ -2515,10 +2360,8 @@ date,home_team,away_team,home_score,away_score,tournament
 7/11/2021,Namibia,Zimbabwe,2,0,COSAFA Cup
 7/11/2021,Mozambique,Malawi,2,0,COSAFA Cup
 7/11/2021,El Salvador,Guatemala,2,0,Gold Cup
-7/11/2021,Canada,Martinique,4,1,Gold Cup
 7/11/2021,United States,Haiti,1,0,Gold Cup
 7/12/2021,Jamaica,Suriname,2,0,Gold Cup
-7/12/2021,Costa Rica,Guadeloupe,3,1,Gold Cup
 7/13/2021,Botswana,Zambia,1,2,COSAFA Cup
 7/13/2021,South Africa,Lesotho,4,0,COSAFA Cup
 7/13/2021,Senegal,Zimbabwe,2,1,COSAFA Cup
@@ -2532,10 +2375,8 @@ date,home_team,away_team,home_score,away_score,tournament
 7/14/2021,Trinidad and Tobago,El Salvador,0,2,Gold Cup
 7/14/2021,Guatemala,Mexico,0,3,Gold Cup
 7/15/2021,Haiti,Canada,1,4,Gold Cup
-7/15/2021,United States,Martinique,6,1,Gold Cup
 7/16/2021,Senegal,Eswatini,2,2,COSAFA Cup
 7/16/2021,South Africa,Mozambique,3,0,COSAFA Cup
-7/16/2021,Guadeloupe,Jamaica,1,2,Gold Cup
 7/16/2021,Suriname,Costa Rica,1,2,Gold Cup
 7/17/2021,Grenada,Qatar,0,4,Gold Cup
 7/17/2021,Panama,Honduras,2,3,Gold Cup
@@ -2543,9 +2384,7 @@ date,home_team,away_team,home_score,away_score,tournament
 7/18/2021,South Africa,Senegal,0,0,COSAFA Cup
 7/18/2021,Guatemala,Trinidad and Tobago,1,1,Gold Cup
 7/18/2021,Mexico,El Salvador,1,0,Gold Cup
-7/18/2021,Martinique,Haiti,1,2,Gold Cup
 7/18/2021,United States,Canada,1,0,Gold Cup
-7/20/2021,Suriname,Guadeloupe,2,1,Gold Cup
 7/20/2021,Costa Rica,Jamaica,1,0,Gold Cup
 7/20/2021,Panama,Grenada,3,1,Gold Cup
 7/20/2021,Honduras,Qatar,0,2,Gold Cup
@@ -3210,7 +3049,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/23/2022,Bahrain,India,2,1,Friendly
 3/23/2022,Gibraltar,Grenada,0,0,Friendly
 3/23/2022,Guinea-Bissau,Equatorial Guinea,3,0,Friendly
-3/23/2022,Guadeloupe,Cape Verde,0,2,Friendly
 3/23/2022,Laos,Mongolia,1,0,Friendly
 3/23/2022,Malaysia,Philippines,2,0,Friendly
 3/23/2022,Mozambique,Niger,1,1,Friendly
@@ -3218,7 +3056,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/23/2022,Chad,Gambia,0,1,African Cup of Nations qualification
 3/23/2022,Djibouti,South Sudan,2,4,African Cup of Nations qualification
 3/23/2022,Seychelles,Lesotho,0,0,African Cup of Nations qualification
-3/23/2022,Somalia,Eswatini,0,3,African Cup of Nations qualification
 3/24/2022,Jamaica,El Salvador,1,1,FIFA World Cup qualification
 3/24/2022,Mexico,United States,0,0,FIFA World Cup qualification
 3/24/2022,Panama,Honduras,1,1,FIFA World Cup qualification
@@ -3305,7 +3142,6 @@ date,home_team,away_team,home_score,away_score,tournament
 3/27/2022,Thailand,Suriname,1,0,Friendly
 3/27/2022,South Sudan,Djibouti,1,0,African Cup of Nations qualification
 3/27/2022,Lesotho,Seychelles,3,1,African Cup of Nations qualification
-3/27/2022,Eswatini,Somalia,2,1,African Cup of Nations qualification
 3/27/2022,Mauritius,São Tomé and Príncipe,3,3,African Cup of Nations qualification
 3/28/2022,Andorra,Grenada,1,0,Friendly
 3/28/2022,Cape Verde,San Marino,2,0,Friendly
@@ -3373,16 +3209,10 @@ date,home_team,away_team,home_score,away_score,tournament
 3/30/2022,Solomon Islands,New Zealand,0,5,FIFA World Cup qualification
 4/24/2022,El Salvador,Guatemala,0,4,Friendly
 4/27/2022,Mexico,Guatemala,0,0,Friendly
-5/12/2022,Bahamas,Turks and Caicos Islands,4,2,Friendly
 5/12/2022,Dominica,Saint Vincent and the Grenadines,2,1,Friendly
-5/14/2022,Bahamas,Turks and Caicos Islands,1,2,Friendly
 5/15/2022,Dominica,Saint Vincent and the Grenadines,3,1,Friendly
-5/21/2022,Yoruba Nation,Matabeleland,1,1,CONIFA Africa Football Cup
-5/22/2022,Biafra,Matabeleland,0,1,CONIFA Africa Football Cup
-5/23/2022,Yoruba Nation,Biafra,0,1,CONIFA Africa Football Cup
 5/24/2022,Mozambique,Eswatini,0,1,Friendly
 5/24/2022,Thailand,Bahrain,3,1,Friendly
-5/25/2022,Biafra,Matabeleland,1,0,CONIFA Africa Football Cup
 5/27/2022,Bahrain,Myanmar,2,0,Friendly
 5/27/2022,Malaysia,Brunei,4,0,Friendly
 5/27/2022,Thailand,Turkmenistan,1,0,Friendly
@@ -3411,10 +3241,7 @@ date,home_team,away_team,home_score,away_score,tournament
 6/2/2022,Mozambique,Rwanda,1,1,African Cup of Nations qualification
 6/2/2022,Panama,Costa Rica,2,0,CONCACAF Nations League
 6/2/2022,Barbados,Antigua and Barbuda,0,1,CONCACAF Nations League
-6/2/2022,Guadeloupe,Cuba,2,1,CONCACAF Nations League
 6/2/2022,Belize,Dominican Republic,0,2,CONCACAF Nations League
-6/2/2022,French Guiana,Guatemala,2,0,CONCACAF Nations League
-6/2/2022,Anguilla,Dominica,0,0,CONCACAF Nations League
 6/2/2022,Czech Republic,Switzerland,2,1,UEFA Nations League
 6/2/2022,Spain,Portugal,1,1,UEFA Nations League
 6/2/2022,Israel,Iceland,2,2,UEFA Nations League
@@ -3435,11 +3262,7 @@ date,home_team,away_team,home_score,away_score,tournament
 6/3/2022,Comoros,Lesotho,2,0,African Cup of Nations qualification
 6/3/2022,Ivory Coast,Zambia,3,1,African Cup of Nations qualification
 6/3/2022,Curaçao,Honduras,0,1,CONCACAF Nations League
-6/3/2022,Bahamas,Saint Vincent and the Grenadines,1,0,CONCACAF Nations League
 6/3/2022,Nicaragua,Trinidad and Tobago,2,1,CONCACAF Nations League
-6/3/2022,Sint Maarten,United States Virgin Islands,1,1,CONCACAF Nations League
-6/3/2022,Turks and Caicos Islands,Bonaire,1,4,CONCACAF Nations League
-6/3/2022,Saint Martin,Aruba,0,0,CONCACAF Nations League
 6/3/2022,British Virgin Islands,Cayman Islands,1,1,CONCACAF Nations League
 6/3/2022,Croatia,Austria,0,3,UEFA Nations League
 6/3/2022,France,Denmark,1,2,UEFA Nations League
@@ -3474,12 +3297,8 @@ date,home_team,away_team,home_score,away_score,tournament
 6/5/2022,Central African Republic,Ghana,1,1,African Cup of Nations qualification
 6/5/2022,Madagascar,Angola,1,1,African Cup of Nations qualification
 6/5/2022,Botswana,Tunisia,0,0,African Cup of Nations qualification
-6/5/2022,Costa Rica,Martinique,2,0,CONCACAF Nations League
 6/5/2022,Cuba,Barbados,3,0,CONCACAF Nations League
-6/5/2022,Antigua and Barbuda,Guadeloupe,1,0,CONCACAF Nations League
 6/5/2022,Guatemala,Belize,2,0,CONCACAF Nations League
-6/5/2022,Dominican Republic,French Guiana,2,3,CONCACAF Nations League
-6/5/2022,Dominica,Anguilla,1,1,CONCACAF Nations League
 6/5/2022,Portugal,Switzerland,4,0,UEFA Nations League
 6/5/2022,Czech Republic,Spain,2,2,UEFA Nations League
 6/5/2022,Serbia,Slovenia,4,1,UEFA Nations League
@@ -3497,10 +3316,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/6/2022,Equatorial Guinea,Libya,2,0,African Cup of Nations qualification
 6/6/2022,Honduras,Curaçao,1,2,CONCACAF Nations League
 6/6/2022,Saint Vincent and the Grenadines,Nicaragua,2,2,CONCACAF Nations League
-6/6/2022,Trinidad and Tobago,Bahamas,1,0,CONCACAF Nations League
-6/6/2022,Bonaire,Sint Maarten,2,2,CONCACAF Nations League
-6/6/2022,United States Virgin Islands,Turks and Caicos Islands,3,2,CONCACAF Nations League
-6/6/2022,Aruba,Saint Martin,3,0,CONCACAF Nations League
 6/6/2022,Cayman Islands,British Virgin Islands,1,1,CONCACAF Nations League
 6/6/2022,Austria,Denmark,1,2,UEFA Nations League
 6/6/2022,Croatia,France,1,1,UEFA Nations League
@@ -3555,11 +3370,8 @@ date,home_team,away_team,home_score,away_score,tournament
 6/9/2022,South Sudan,Mali,1,3,African Cup of Nations qualification
 6/9/2022,Lesotho,Ivory Coast,0,0,African Cup of Nations qualification
 6/9/2022,Morocco,South Africa,2,1,African Cup of Nations qualification
-6/9/2022,Panama,Martinique,5,0,CONCACAF Nations League
 6/9/2022,Canada,Curaçao,4,0,CONCACAF Nations League
-6/9/2022,Barbados,Guadeloupe,0,1,CONCACAF Nations League
 6/9/2022,Antigua and Barbuda,Cuba,0,2,CONCACAF Nations League
-6/9/2022,Belize,French Guiana,1,1,CONCACAF Nations League
 6/9/2022,Aruba,Saint Kitts and Nevis,2,3,CONCACAF Nations League
 6/9/2022,Dominica,Saint Lucia,0,1,CONCACAF Nations League
 6/9/2022,Cayman Islands,Puerto Rico,0,3,CONCACAF Nations League
@@ -3577,7 +3389,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/9/2022,Saudi Arabia,Venezuela,0,1,Friendly
 6/10/2022,United States,Grenada,5,0,CONCACAF Nations League
 6/10/2022,Saint Vincent and the Grenadines,Trinidad and Tobago,0,2,CONCACAF Nations League
-6/10/2022,Bahamas,Nicaragua,0,2,CONCACAF Nations League
 6/10/2022,Dominican Republic,Guatemala,1,1,CONCACAF Nations League
 6/10/2022,Austria,France,1,1,UEFA Nations League
 6/10/2022,Denmark,Croatia,0,1,UEFA Nations League
@@ -3604,8 +3415,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/11/2022,Mexico,Suriname,3,0,CONCACAF Nations League
 6/11/2022,Guyana,Haiti,2,6,CONCACAF Nations League
 6/11/2022,Montserrat,Bermuda,3,2,CONCACAF Nations League
-6/11/2022,United States Virgin Islands,Bonaire,0,2,CONCACAF Nations League
-6/11/2022,Sint Maarten,Turks and Caicos Islands,8,2,CONCACAF Nations League
 6/11/2022,England,Italy,0,0,UEFA Nations League
 6/11/2022,Hungary,Germany,1,1,UEFA Nations League
 6/11/2022,Wales,Belgium,1,1,UEFA Nations League
@@ -3618,11 +3427,7 @@ date,home_team,away_team,home_score,away_score,tournament
 6/11/2022,Luxembourg,Turkey,0,2,UEFA Nations League
 6/11/2022,Ecuador,Cape Verde,1,0,Friendly
 6/11/2022,Uruguay,Panama,5,0,Friendly
-6/12/2022,Martinique,Panama,0,0,CONCACAF Nations League
 6/12/2022,Cuba,Antigua and Barbuda,3,1,CONCACAF Nations League
-6/12/2022,Guadeloupe,Barbados,2,1,CONCACAF Nations League
-6/12/2022,Saint Kitts and Nevis,Saint Martin,1,1,CONCACAF Nations League
-6/12/2022,Saint Lucia,Anguilla,2,0,CONCACAF Nations League
 6/12/2022,Puerto Rico,British Virgin Islands,6,0,CONCACAF Nations League
 6/12/2022,Spain,Czech Republic,2,0,UEFA Nations League
 6/12/2022,Switzerland,Portugal,1,0,UEFA Nations League
@@ -3639,7 +3444,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/13/2022,Sierra Leone,Guinea-Bissau,2,2,African Cup of Nations qualification
 6/13/2022,Morocco,Liberia,2,0,African Cup of Nations qualification
 6/13/2022,Honduras,Canada,2,1,CONCACAF Nations League
-6/13/2022,Nicaragua,Bahamas,4,0,CONCACAF Nations League
 6/13/2022,Trinidad and Tobago,Saint Vincent and the Grenadines,4,1,CONCACAF Nations League
 6/13/2022,Guatemala,Dominican Republic,2,0,CONCACAF Nations League
 6/13/2022,Denmark,Austria,2,0,UEFA Nations League
@@ -3664,9 +3468,6 @@ date,home_team,away_team,home_score,away_score,tournament
 6/14/2022,Jamaica,Mexico,1,1,CONCACAF Nations League
 6/14/2022,El Salvador,United States,1,1,CONCACAF Nations League
 6/14/2022,Haiti,Guyana,6,0,CONCACAF Nations League
-6/14/2022,French Guiana,Belize,1,0,CONCACAF Nations League
-6/14/2022,Bonaire,United States Virgin Islands,2,0,CONCACAF Nations League
-6/14/2022,Turks and Caicos Islands,Sint Maarten,2,0,CONCACAF Nations League
 6/14/2022,England,Hungary,0,4,UEFA Nations League
 6/14/2022,Germany,Italy,5,2,UEFA Nations League
 6/14/2022,Netherlands,Wales,3,2,UEFA Nations League
@@ -3682,13 +3483,9 @@ date,home_team,away_team,home_score,away_score,tournament
 6/14/2022,Chile,Ghana,0,0,Kirin Cup
 6/14/2022,Japan,Tunisia,0,3,Kirin Cup
 6/14/2022,South Korea,Egypt,4,1,Friendly
-6/17/2022,Mapuche,Maule Sur,0,1,CONIFA South America Football Cup
-6/18/2022,Mapuche,Aymara,3,1,CONIFA South America Football Cup
-6/19/2022,Aymara,Maule Sur,0,1,CONIFA South America Football Cup
 8/31/2022,Mexico,Paraguay,0,1,Friendly
 9/17/2022,Fiji,New Caledonia,1,0,MSG Prime Minister's Cup
 9/17/2022,Solomon Islands,New Caledonia,1,0,MSG Prime Minister's Cup
-9/21/2022,Brunei Darussalam,Maldives,0,3,Friendly
 9/21/2022,Hong Kong,Myanmar,2,0,Friendly
 9/21/2022,Libya,Uganda,0,0,Friendly
 9/21/2022,San Marino,Seychelles,0,0,Friendly
@@ -3789,7 +3586,6 @@ date,home_team,away_team,home_score,away_score,tournament
 9/27/2022,Argentina,Jamaica,3,0,Friendly
 9/27/2022,Bahrain,Panama,0,2,Friendly
 9/27/2022,Brazil,Tunisia,5,1,Friendly
-9/27/2022,Brunei Darussalam,Laos,1,0,Friendly
 9/27/2022,Burkina Faso,Comoros,2,1,Friendly
 9/27/2022,Canada,Uruguay,0,2,Friendly
 9/27/2022,DR Congo,Sierra Leone,3,0,Friendly
