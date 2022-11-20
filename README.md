@@ -78,6 +78,8 @@ For the predictions of the 2022 FIFA World Cup, the model would predict the prob
 
 **It was heavily decided that Brazil would win the 2022 FIFA World Cup, followed by Belgium, then Argentina.**
 
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
