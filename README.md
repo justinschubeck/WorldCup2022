@@ -5,9 +5,9 @@
     <img src="images/trophy.jpg" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Machine Learning FIFA World Cup 2022 Predictions</h3>
+  <h3 align="center">Machine Learning Predicting FIFA World Cup 2022</h3>
   <p align="center">
-    by: [Justin Schubeck](https://www.linkedin.com/in/justinschubeck/)
+    by: <a href="https://www.linkedin.com/in/justinschubeck/">Justin Schubeck</a>
   </p>
 </p>
 
